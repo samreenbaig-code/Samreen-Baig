@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 Helping students stay on track with smart learning tools 💻📖
 
 ## 📫 Connect
-- 📧 your.email@example.com
-- 🌐 [My Portfolio](https://your-portfolio-link.com)
+- 📧 samreen.baig@triosstudent.com
+- 🌐 [My Portfolio](https://samreenbaig-code-portfolio-link.com)
 
 Thanks for visiting! ⭐
