@@ -1,8 +1,3 @@
-Sure, here's an enhanced and more visually attractive version of your GitHub profile `README.md` in Markdown format. It uses emojis, clean formatting, and clear sections to make everything look more polished and professional:
-
----
-
-```markdown
 # ✨ Samreen-Baig
 
 **Welcome to my GitHub profile!**  
