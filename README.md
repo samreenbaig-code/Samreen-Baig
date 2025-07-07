@@ -37,30 +37,28 @@
 ---
 
 ⭐ *Thanks for visiting my GitHub! Let's build something amazing together.*  
-```
 
----
 
 ### 🌈 Suggestions to enhance it even further:
 
 1. **Add a GitHub Stats Card:**
    Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to show your activity.
 
-   ```markdown
+  
    ![Samreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-   ```
+ 
 
 2. **Add contribution streaks:**
 
-   ```markdown
+  
    [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-   ```
+  
 
 3. **Add a custom banner:**
-   You can design a banner in Canva or Adobe XD and place it at the top:
+   
+  
+![Abstract Technology Profile LinkedIn Banner](https://github.com/user-attachments/assets/57f83227-c6bb-4d38-9150-5c4542cf0c57)
 
-   ```markdown
-   ![Banner](https://your-image-link.com/banner.png)
-   ```
 
-Would you like me to add any of these elements or customize the colors/themes for you?
+
+
